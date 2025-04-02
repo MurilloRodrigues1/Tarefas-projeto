@@ -19,7 +19,7 @@ O sistema deverá permitir:
 ### Interface Figma:
 Optamos por uma interface simples, e objetiva, optamos por focar na melhora do Back-End, mas não deixamos a interface mal desenvolvida.
 
-
+![image.png](attachment:6cd12b20-4b71-4524-9f73-521081d43fbc:97edaf46-cd51-4700-a056-5e9e8a40814d.png)
 
     
    
