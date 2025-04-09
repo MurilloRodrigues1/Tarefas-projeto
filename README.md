@@ -15,10 +15,49 @@ O sistema deverá permitir:
 
 ✅ **Listar tarefas** – Exibir todas as tarefas cadastradas.
 
-### INTERFACE (explicação:
+### INTERFACE explicação:
 Optamos por uma interface simples, e objetiva, optamos por focar na melhora do Back-End, mas não deixamos a interface mal desenvolvida.
 Usamos a cor cinza para não ficar um interface tao gritante.
 
-##PRIMEIRAS EM
+## INTERFACE FINAL:
+### Interface VSCODE:
+
+- IMAGEM - *HOME*
+    
+  <p align="left">
+  <img src="https://github.com/user-attachments/assets/6a930b8e-1e4d-43da-9ab0-6345f3dd07fa" width="300">
+  </p>
+
+    
+- IMAGEM - *ADICIONAR TAREFAS*
+    
+    <p align="left">
+  <img src="https://github.com/user-attachments/assets/1c857df0-95f8-41e4-b588-dbbc72fedb56" width="300">
+  </p>
+
+
+- IMAGEM - *REMOVER TAREFAS*
+    
+  <p align="left">
+  <img src="https://github.com/user-attachments/assets/0e9413e7-954e-4b87-b053-fd506bdd2a37" width="300">
+  </p>
+
+    
+- IMAGEM - *EDITAR TAREFAS*
+    
+  <p align="left">
+  <img src="https://github.com/user-attachments/assets/1162c6ab-c556-462e-8e10-d81d11c20f8d" width="300">
+  </p>
+
+
+    
+- IMAGEM - *LISTAR TAREFAS*
+
+  <p align="left">
+  <img src="https://github.com/user-attachments/assets/fdf9cb3e-82fe-4b73-bee3-3ec222d75a6e" width="300">
+  </p>
+
+    
+  
 
 
